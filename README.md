@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+Implementation of custom hooks for friends list online status.
+
 ## Available Scripts
 
 In the project directory, you can run:
